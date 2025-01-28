@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log(progressbar)
 
    let currentWidth = 10;
+   updateProgressbar()
    console.log(currentWidth)
    
 
